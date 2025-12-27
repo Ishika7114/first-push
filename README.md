@@ -1,2 +1,3 @@
 # first-push
-my first repo
+My first repo
+Author-ishika sharma
